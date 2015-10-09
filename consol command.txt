@@ -1,0 +1,32 @@
+ls
+mkdir	создать директорию 
+cd
+open filtename.txt
+create filename.txt
+move file path
+cp
+rm
+rm -f
+rm -rf
+
+~
+../    	на директорию вверх
+./	текущая директория 
+
+
+git status 			изменения в гите
+git add				добавить в буфер гита
+git add —-all		
+git commit -m ‘Name commit’	добавить коммит
+
+git push			отправить все что есть в репозиторий сервера		
+git pull
+git log —-graph —-all —-decorate —-online  вывести ветки в консоль
+
+git merge 			слить ветки 
+
+git branch			проверить ветку
+git branch new style		создать новую ветку	
+git checkout new style		перейти в новую ветку
+
+
